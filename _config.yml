@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "d@y0u / records"
+title                    : "d@y0u / 日常记录"
 title_separator          : "-"
 name                     : &name "d@y0u"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mr.Wang"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Mr.Li"
+  avatar           : "profile1.jpg"
+  bio              : "小白小白小白"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
